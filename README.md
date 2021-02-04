@@ -2,6 +2,7 @@
 Converts a JSON file to CSV
 
 
+```
 usage: json_to_csv.py [-h] [--col-sep COL_SEP] [--crlf] [--encl ENCL]
                       [--empty EMPTY]
                       filename
@@ -15,3 +16,4 @@ optional arguments:
   --crlf             Add CRLF at end lines, default False
   --encl ENCL        Encloser char, defaults to '"'
   --empty EMPTY      Value to use for empty strings defaults to empty string
+```
