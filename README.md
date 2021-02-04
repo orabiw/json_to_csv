@@ -1,5 +1,7 @@
 # json_to_csv
 Converts a JSON file to CSV
+
+
 usage: json_to_csv.py [-h] [--col-sep COL_SEP] [--crlf] [--encl ENCL]
                       [--empty EMPTY]
                       filename
